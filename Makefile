@@ -1,2 +1,2 @@
 run:
-	deno run --allow-net main.ts
+	deno run --lock=lock.json --allow-net main.ts
